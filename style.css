@@ -1,4 +1,35 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+}
 
+h1 {
+    color: grey;
+    font-family: Verdana;
+    white-space: nowrap;
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    line-height: 1.5em;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
+
+.innerdiv {
+    width: 300px;
+    margin: auto;
+}
+
+input, select {
+    float: right;
+    width: 175px;
+}
+
+footer {
+    padding-top: 8px;
+}
 
